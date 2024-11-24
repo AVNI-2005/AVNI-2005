@@ -23,7 +23,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![4cd6eaa599851725aa5a195d162fb20d](https://github.com/AVNI-2005/AVNI/assets/147130341/25a74a8b-c923-42c6-bf4c-4371bc197c69)
+![typing-anime](https://github.com/user-attachments/assets/2fc62a21-ad0f-437f-ae65-1b451e4f0741)
+
+
 
 
 ---
